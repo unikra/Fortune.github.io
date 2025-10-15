@@ -2,6 +2,9 @@
 "Datas": [
     {
         "name" : "showAd", "data" : "1302", "use" : "1"
+    },
+    {
+        "name" : "showAd2", "data" : "1333", "use" : "1"
     }
 ]
 }
